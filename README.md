@@ -1,5 +1,5 @@
 عمليةSubstring
-![image alt]()
+![image alt](https://github.com/Kryomenos/TextStringsSolution/blob/master/LWgyCdNPHt.png?raw=true)
 عملية Remove
 ![image alt]()
 عملية Insert
